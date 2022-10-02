@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prmdsngh
-- 👀 I’m interested in java, javascript, web development
+- 👀 I’m backend and frontend development.
 - 🌱 I’m currently learning cloud technologies
 - 💞️ I’m looking to collaborate on AI related projects.
 - 📫 How to reach me pmdsingh50@gmail.com
